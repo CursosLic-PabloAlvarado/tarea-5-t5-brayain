@@ -6,3 +6,6 @@ EL5857 Aprendizaje Automático
 
 Clasificación con marcos de trabajo de aprendizaje automático, en particular Scikit-Learn y PyTorch.
 
+Para ejecutar cada clasificador se debe correr el archivo opt_"clasificador", cada uno tiene diferentes configuraciones que se pueden cambiar, además, si se desea guardar cada archivo solo se deben descomentar las últimas líneas de cada mnist_"clasificador" las cuales se comentaron para evitar cargarlos al git.
+
+Por último, recuerde descargar las librerías necesarias según el código, de lo contrario no correrá ningún script.
